@@ -41,3 +41,6 @@ https://neveselyj-ivan-valentinovic.cms.webnode.ru/
 <BR>        4 с 13 по 20 определится с системой конференции
 
 ![Screenshot_20230116_103015_com google android gm](https://user-images.githubusercontent.com/97594467/212621743-2a9bb02a-9ada-43d2-a0d4-5464081ffd9a.jpg)
+  
+  
+https://neveselyj-ivan-valentinovic.cms.webnode.ru/

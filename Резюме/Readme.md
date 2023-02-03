@@ -33,7 +33,6 @@ MDK02.02(resume)
 - [ ] Высшее образование;
 - [ ] Аккуратность и умение работать с чужим кодом.
 
-https://neveselyj-ivan-valentinovic.cms.webnode.ru/
 <BR>        2 Выбрать дизайн сайта
 <BR>        https://www.figma.com/community/file/1193461935826510859
 <BR>        https://www.figma.com/community/file/1188443208149762781
@@ -43,4 +42,4 @@ https://neveselyj-ivan-valentinovic.cms.webnode.ru/
 ![Screenshot_20230116_103015_com google android gm](https://user-images.githubusercontent.com/97594467/212621743-2a9bb02a-9ada-43d2-a0d4-5464081ffd9a.jpg)
   
   
-https://neveselyj-ivan-valentinovic.cms.webnode.ru/
+https://neveselyj-ivan-valentinovic.webnode.ru/

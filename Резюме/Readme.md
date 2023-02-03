@@ -32,6 +32,8 @@ MDK02.02(resume)
 - [X] Опыт работы в аналогичной сфере (приветствуется);
 - [ ] Высшее образование;
 - [ ] Аккуратность и умение работать с чужим кодом.
+
+https://neveselyj-ivan-valentinovic.cms.webnode.ru/
 <BR>        2 Выбрать дизайн сайта
 <BR>        https://www.figma.com/community/file/1193461935826510859
 <BR>        https://www.figma.com/community/file/1188443208149762781

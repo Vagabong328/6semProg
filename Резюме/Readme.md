@@ -40,6 +40,8 @@ MDK02.02(resume)
 <BR>        4 с 13 по 20 определится с системой конференции
 
 ![Screenshot_20230116_103015_com google android gm](https://user-images.githubusercontent.com/97594467/212621743-2a9bb02a-9ada-43d2-a0d4-5464081ffd9a.jpg)
-  
+![Результат](https://user-images.githubusercontent.com/97594467/216837560-df5606ee-85b5-48f6-8302-283ab45a07fa.jpg)
+![216523215-d7527425-40ce-4aa6-b33d-ccd91f199056](https://user-images.githubusercontent.com/97594467/216837569-dc2363ac-01a3-4d47-ad79-cf0c27213341.jpeg)  
+![Сертифекат](https://user-images.githubusercontent.com/97594467/216836516-661092c2-7ab6-45b6-9a2a-859ae97c416c.jpg)
   
 https://neveselyj-ivan-valentinovic.webnode.ru/

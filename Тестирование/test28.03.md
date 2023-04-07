@@ -139,3 +139,6 @@ namespace Kalkulator
 # Скриншот
 
 ![image](https://user-images.githubusercontent.com/59621706/228197685-39d21653-1a3e-4889-a0fa-73ae073c99b6.png)
+
+![image](https://user-images.githubusercontent.com/97594467/230591988-aea7fe0d-d5be-48ac-8565-148679a3577c.png)
+
